@@ -45,6 +45,6 @@ https://t.me/a_chasovsky
 
 ### Дополнительно
 
-* #### test_tasks
+* #### test_tasks &ensp; <img src='images/test.jpg' width='25'>
 
 Пример решенного тестового задания для одного из потенциальных работодателей.

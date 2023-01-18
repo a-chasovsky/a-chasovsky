@@ -16,7 +16,7 @@ https://t.me/a_chasovsky
 
 ### Аналитика данных
 
-* #### [pers_motogp_analytics](https://github.com/a-chasovsky/pers_motogp_analytics) &ensp; <img src='images/logo.png' width='40'>
+* #### [pers_motogp_analytics](https://github.com/a-chasovsky/pers_motogp_analytics) &ensp; <img src='images/logo.png' width='35'>
 
 Анализ результатов гран-при чемпионата мира по мотогонкам MotoGP. По запросу пользователя скрипт автоматически скачивает протокол гонки в формате pdf (используя для этого разделы сайта, а не прямые ссылки), извлекает данные из pdf, преобразовывает их, считает метрики и строит итоговые графики.  
 
@@ -26,7 +26,7 @@ https://t.me/a_chasovsky
 
 * #### [kc_etl_pipeline](https://github.com/a-chasovsky/kc_etl_pipeline) &ensp; <img src='images/etl.png' width='30'>
 
-Пайплайн выгружает данные из нескольких таблиц базы данных и рассчитывает агрегированные характеристики по некоторым метрикам. Итоговый датафрейм загружается обратно в базу данных в отдельную таблицу. Процедура повторяется один раз в сутки.
+Данные выгружаются из нескольких таблиц БД, рассчитываются агрегированные характеристики. Результаты записываются в датафрейм, который загружается обратно в базу. Процедура повторяется один раз в сутки.
 
 * #### [kc_ab_testing](https://github.com/a-chasovsky/kc_ab_testing) &ensp; <img src='images/ab.png' width='30'>
 
@@ -47,4 +47,4 @@ https://t.me/a_chasovsky
 
 * #### [test_tasks](https://github.com/a-chasovsky/test_tasks) &ensp; <img src='images/test.jpg' width='25'>
 
-Пример решенного тестового задания для одного из потенциальных работодателей.
+Пример решенного тестового задания.
